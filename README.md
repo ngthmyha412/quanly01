@@ -14,4 +14,4 @@ php artisan key:generate
 
 php artisan serve
 
-B4: Truy cập http://localhost:8000/ để đăng nhập vào vào giao diện quản lý Admin ( Email: admin01@gmail.com , Password: 123456789 )
+B4: Truy cập http://localhost:8000/ để đăng nhập vào giao diện quản lý Admin ( Email: admin01@gmail.com , Password: 123456789 )
