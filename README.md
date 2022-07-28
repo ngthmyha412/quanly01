@@ -1,5 +1,3 @@
-Cách cài đặt:
-
 B1: Khởi động Xampp và truy cập http://localhost/phpmyadmin tạo 1 database
 
 B2: Tạo file .env đổi tên database 
